@@ -1,0 +1,13 @@
+torch
+pandas
+numpy
+scikit-learn
+openpyxl
+pyarrow
+flask
+flask-cors
+opencv-python
+mediapipe
+tqdm
+datasets
+huggingface_hub
